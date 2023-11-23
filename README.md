@@ -10,3 +10,7 @@ Revolutionize note-taking with Color Bliss! Quickly jot down ideas and to-dos in
 4. Search your Notes.
 5. Download your notes to your phone.
 6. Change theme of the app.
+
+## App demo:
+
+![Color notes poster](https://github.com/mohammadjawid10/Color-Notes/assets/151815039/db93f968-ca5f-4e5b-b1b8-ca8b7c591e37)
